@@ -1,4 +1,4 @@
-# game_news
+# LoLiFy App
 
 A new Flutter project.
 
