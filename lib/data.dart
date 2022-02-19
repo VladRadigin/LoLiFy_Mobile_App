@@ -18,9 +18,7 @@ class Game {
 List<Game> games = [
   Game(
     "Horizon Zero Dawn",
-    GameImage(
-        "https://www.wallpaperflare.com/static/734/272/885/horizon-zero-dawn-playstation-4-logo-aloy-horizon-zero-dawn-wallpaper.jpg",
-        ""),
+    GameImage("https://escorenews.com/media/news/n24994.jpeg", ""),
     "",
     "Guerrilla Games",
   ),

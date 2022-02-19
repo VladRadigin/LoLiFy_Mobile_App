@@ -18,7 +18,9 @@ class _HomeScreenState extends State<HomeScreen> {
     _deviceWidth = MediaQuery.of(context).size.height;
     return Scaffold(
       body: Stack(
-        children: <Widget>[],
+        children: <Widget>[
+          _featuredLoLWidget(),
+        ],
       ),
     );
   }
@@ -27,7 +29,13 @@ class _HomeScreenState extends State<HomeScreen> {
     return SizedBox(
       height: _deviceHeight,
       width: _deviceWidth,
-      child: Container(),
+      child: Container(
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            image: NetworkImage(featuredGames[0].coverImage.url),
+          ),
+        ),
+      ),
     );
   }
 }
