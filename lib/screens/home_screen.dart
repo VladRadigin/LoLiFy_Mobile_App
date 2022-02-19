@@ -27,15 +27,20 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget _featuredLoLWidget() {
     return SizedBox(
-      height: _deviceHeight,
+      height: _deviceHeight/2,
       width: _deviceWidth,
-      child: Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: NetworkImage(featuredGames[0].coverImage.url),
-          ),
-        ),
-      ),
+      child: PageView(
+        scrollDirection: Axis.horizontal,
+        children: featuredGames.map((_game) {
+          return Container(
+            decoration: BoxDecoration(
+              image: DecorationImage(
+                fit: BoxFit.cover,
+                image: NetworkImage(_game.coverImage.url),
+              ),
+            ),
+          );
+        }).toList())
     );
   }
 }

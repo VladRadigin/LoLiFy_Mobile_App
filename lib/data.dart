@@ -33,7 +33,7 @@ List<Game> games = [
   Game(
     "Tom Clancy's The Division 2",
     GameImage(
-        "https://cdn.division.zone/uploads/2019/03/tc-the-division-2-preload-start-times-sizes-header.jpg",
+        "https://3dnews.ru/assets/external/illustrations/2021/02/05/1031940/01.jpg",
         ""),
     "",
     "Massive Entertainment",
@@ -41,7 +41,7 @@ List<Game> games = [
   Game(
     "Resident Evil 2",
     GameImage(
-        "https://media.playstation.com/is/image/SCEA/resident-evil-2-box-art-01-ps4-us-12dec18?\$native_nt\$",
+        "https://get.wallhere.com/photo/League-of-Legends-Yasuo-1918461.jpg",
         ""),
     "",
     "Capcom",
@@ -52,21 +52,21 @@ List<Game> games2 = [
   Game(
     "Grand Theft Auto V",
     GameImage(
-        "https://gpstatic.com/acache/26/25/1/uk/packshot-7136bdab871d6b2c8f07ccc9ad33b4d0.jpg",
+        "https://kartinkin.net/uploads/posts/2021-07/1626909275_5-kartinkin-com-p-liga-legend-kain-art-art-krasivo-5.jpg",
         ""),
     "",
     "Rockstar Games",
   ),
   Game(
     "The Last of Us Part II",
-    GameImage("https://mvpo.us/img/P6253.jpg", ""),
+    GameImage("https://get.wallhere.com/photo/League-of-Legends-Ahri-League-of-Legends-magic-1447207.jpg", ""),
     "",
     "Naughty Dog",
   ),
   Game(
     "Sekiro: Shadows Die Twice",
     GameImage(
-        "https://onlysp.escapistmagazine.com/wp-content/uploads/2019/03/Sekiro-Shadows-Die-Twice-logo-art.jpg",
+        "https://cdn.hipwallpaper.com/i/7/34/2sWt9J.jpg",
         ""),
     "",
     "From Software",
@@ -74,7 +74,7 @@ List<Game> games2 = [
   Game(
     "Just Cause 4",
     GameImage(
-        "https://s3.gaming-cdn.com/images/products/2666/orig/just-cause-4-cover.jpg",
+        "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd2d5de6c83b3349f/60ee0ddefdc6795ca5848472/gwen-splash.jpg",
         ""),
     "",
     "Avalanche Studios",
@@ -85,7 +85,7 @@ List<Game> featuredGames = [
   Game(
     "Total War: Three Kingdoms",
     GameImage(
-        "https://content.totalwar.com/total-war/com.totalwar.www2019/uploads/2019/03/08145252/2.jpg",
+        "https://3dnews.ru/assets/external/illustrations/2022/02/01/1059219/glask_lol.jpg",
         ""),
     "",
     "Feral Interactive",
@@ -93,7 +93,7 @@ List<Game> featuredGames = [
   Game(
     "Call of Duty: Modern Warfare",
     GameImage(
-        "https://images.hdqwalls.com/download/call-of-duty-modern-warfare-2019-4k-cb-1920x1080.jpg",
+        "https://learn2play.ru/wp-content/uploads/2018/07/zac-full-opt.jpg",
         ""),
     "",
     "Infinity Ward",
@@ -101,7 +101,7 @@ List<Game> featuredGames = [
   Game(
     "Dragon Ball Z: Kakarot",
     GameImage(
-        "https://cdn3.dualshockers.com/wp-content/uploads/2020/01/dbx-kakarot.png",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
         ""),
     "",
     "CyberConnect2",
@@ -109,7 +109,7 @@ List<Game> featuredGames = [
   Game(
     "Mortal Kombat 11",
     GameImage(
-        "https://static.trueachievements.com/customimages/093902.jpg", ""),
+        "https://www.pcgamesn.com/wp-content/uploads/2019/05/mordekaiser.jpg", ""),
     "",
     "NetherRealm Studios",
   )
