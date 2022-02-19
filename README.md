@@ -1,4 +1,4 @@
-# LoLiFy App
+# LoLiFy_Mobile_App
 
 A new Flutter project.
 
